@@ -6,3 +6,6 @@ org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-20
 org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-200]
 2022-01-11 13:57:02 jdbc[5]: exception
 org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-200]
+2022-09-30 20:32:28 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM INFORMATION_SCHEMA.CATALOGS INFORMATION_SCHEMA.[*]COLLATIONS"; SQL statement:
+SELECT * FROM INFORMATION_SCHEMA.CATALOGS INFORMATION_SCHEMA.COLLATIONS [42000-200]
